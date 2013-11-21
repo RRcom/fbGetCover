@@ -1,6 +1,6 @@
 fbGetCover jQuery Plugin
 ==========
-Integrate facebook cover photo on to your site easily using javascript.
+Integrate facebook cover photo on to your site easily using jQuery.
 
 <h3>Description</h3>
 Facebook has changed their look to a new Timeline for Facebook Images. The new look represent a timeline cover image on top of the page that are automatically fit to the width of the container, the top offset are user defined. This simple code will help you imbed the cover images for Facebook timeline photo with your site with the correct offset y calculation given by the Facebook graph API.
