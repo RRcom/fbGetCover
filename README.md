@@ -1,4 +1,4 @@
-fbGetCover
+fbGetCover jQuery Plugin
 ==========
 Integrate facebook cover photo on to your site easily using javascript.
 
